@@ -1,0 +1,14 @@
+Pipi can count the number of divisors of almost every number. Lately he has gone insane and wants a girlfriend. He met a girl, Tipi, who is a coder. Tipi would be pipi's girlfriend only if he answers query of Tipi.
+
+Tipi wants to know the number of numbers between and with exactly divisors. Since the number of queries can be very large (we all know girls) he wants your help. Please help Pipi in getting the love of Tipi.
+
+Constraints:
+1 <= Q <= 10^5
+1 <= L <= R <= 10^5
+0 <= K <= 10^6
+
+Pipi can count the number of divisors of almost every number. Lately he has gone insane and wants a girlfriend. He met a girl, Tipi, who is a coder. Tipi would be pipi's girlfriend only if he answers query of Tipi.
+
+Tipi wants to know the number of numbers between and with exactly divisors. Since the number of queries can be very large (we all know girls) he wants your help. Please help Pipi in getting the love of Tipi.
+
+Constraints
